@@ -1,0 +1,10 @@
+.abc{
+		color: red;
+}
+.routine{
+	color: green;
+	border : 1px solid red;
+}
+.routine tr,td {
+		border : 1px solid red;
+}

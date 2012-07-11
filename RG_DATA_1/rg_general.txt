@@ -1,0 +1,10 @@
+//subject		: teacherName 		: periodsPerWeek : timePerPeriod
+computer_network: dipen_sir 		: 4 			 : 1
+artificial_int	: shashidhar_sir	: 4				 : 1
+elective_i		: elective_sir		: 4				 : 1
+org_mgmt		: organization_sir	: 4				 : 1
+project_engg	: mrd_sir			: 4				 : 1
+software_engg	: timila_mam		: 3				 : 1
+//ai_lab			: sanjay_sir		: 1				 : 3
+//network_lab		: dipen_sir			: 2				 : 3
+//software_lab	: romas_sir			: 1				 : 3

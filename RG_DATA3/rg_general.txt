@@ -1,0 +1,7 @@
+//subject		: teacherName 		: periodsPerWeek : timePerPeriod
+a	:a_sir	: 6
+c	:c_sir	:	6
+d	:d_sir	:	6
+e	:e_sir	:	6
+b	:b_sir	:	6
+f	:f_sir	:	4

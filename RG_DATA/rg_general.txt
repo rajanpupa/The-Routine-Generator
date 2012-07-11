@@ -1,0 +1,7 @@
+//subject : teacher : ppw : tpp
+subject1	:teacher1 : 4
+subject2	:teacher2	:4
+subject3	:teacher3	:4
+subject4	:teacher4	:4
+subject5	:teacher5	:4
+subject6	:teacher6	:4
